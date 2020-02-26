@@ -26,3 +26,8 @@ set tabstop=4
 
 
 autocmd InsertEnter,InsertLeave * set cul!
+
+
+imap ,/ </<C-X><C-O>
+inoremap jj <ESC>
+
